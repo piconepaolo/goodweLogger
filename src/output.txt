@@ -1,0 +1,1 @@
+["PV Power=0 W", "Battery Power=0 W", "Battery State of Charge=10 %", "Battery Mode code=1 ", "Total PV Generation=32.3 kWh", "Today's PV Generation=4.5 kWh", "On-grid Mode code=2 ", "House Consumption=612 W"]
